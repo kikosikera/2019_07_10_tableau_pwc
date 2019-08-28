@@ -1,0 +1,36 @@
+﻿Attributes,Cities,Value
+Mass Markets,Las Vegas,0.003952
+Mass Markets,Chicago,0.003933
+Mass Markets,Bronx,0.003257
+Mass Markets,Los Angeles,0.001679
+Mass Markets,New York,0.001127
+Diverse Workers,Las Vegas,0.000685
+Diverse Workers,Chicago,0.005667
+Diverse Workers,Bronx,0.002282
+Diverse Workers,Los Angeles,0.002011
+Diverse Workers,New York,0.001478
+Well-heeled Affluents,Las Vegas,0.001119
+Well-heeled Affluents,Chicago,0.001349
+Well-heeled Affluents,Bronx,0.000865
+Well-heeled Affluents,Los Angeles,0.001898
+Well-heeled Affluents,New York,0.006493
+Population Growth Rate,Chicago,0.0016
+Population Growth Rate,Las Vegas,0.004
+Population Growth Rate,Los Angeles,0.0053
+Population Growth Rate,New York,0.0074
+Population Growth Rate,Bronx,0.0159
+Housing Construction Rate,Chicago,-0.0013
+Housing Construction Rate,Los Angeles,0.0037
+Housing Construction Rate,Bronx,0.0082
+Housing Construction Rate,New York,0.0094
+Housing Construction Rate,Las Vegas,0.0114
+Property Crime Reported,Las Vegas,22605.5
+Property Crime Reported,Bronx,34335
+Property Crime Reported,Los Angeles,41569.5
+Property Crime Reported,Chicago,42580.5
+Property Crime Reported,New York,67873.5
+Number of Burgalaries reported,Los Angeles,4918
+Number of Burgalaries reported,Chicago,6266
+Number of Burgalaries reported,Las Vegas,7130
+Number of Burgalaries reported,Bronx,7590
+Number of Burgalaries reported,New York,7958
